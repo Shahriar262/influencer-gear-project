@@ -62,4 +62,54 @@
 .nav-item, .nav-icons > img{
   gap: 34px;
 }
+ /* hero section styles */
+main{
+  
+ 
+}
 
+.hero-content{
+  display: flex;
+ align-items: center;
+ gap: 140px;
+ padding: 30px;
+ margin-left: 90px;
+ 
+ 
+ 
+}
+ .btn-1{
+  background-color: #E02C6D;
+  padding: 10px 24px 10px 30px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  margin-top: 16px;
+ }
+
+ .hero-h1{
+  font-weight: bold;
+  font-size: 3.15rem;
+  margin-top: 70px;
+  margin-bottom: 16px;
+ }
+ .hero-p1{
+  font-weight: 600;
+  font-size: 1rem;
+  
+ 
+ }
+.hero-bg{
+  background-image: url('../images/Circle\ design.svg');
+  background-size: cover;
+  position: relative;
+  width: 475px;
+  height: 475px;
+  
+}
+ 
+.hero-img{
+  margin-top: 50px;
+}
